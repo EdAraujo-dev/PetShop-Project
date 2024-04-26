@@ -1,5 +1,5 @@
 # Pet Shop Project
-- Projeto criado para aplicar conceitos durante o mini curso de desenvolvimento web da OneBitCode
+- Projeto criado para aplicar conceitos aprendidos durante o mini curso de desenvolvimento web da OneBitCode
 
 ## Tecnologias Utilizadas
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
